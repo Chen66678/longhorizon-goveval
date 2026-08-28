@@ -1,6 +1,7 @@
 # Published release tree allowlist. Paths are matched relative to this directory.
 .gitignore
 README.md
+README.zh-CN.md
 pyproject.toml
 lhge_build_backend.py
 requirements.lock

@@ -15,6 +15,7 @@ from lh_goveval.tasks import load_all_tasks
 ROOT = Path(__file__).resolve().parents[1]
 REQUIRED_DOCUMENTS = {
     "README.md",
+    "README.zh-CN.md",
     "LICENSE",
     "LICENSE-DATA.md",
     "COPYRIGHT",
@@ -29,6 +30,7 @@ ATTRIBUTION_FILES = {
     "pyproject.toml",
     "lhge_build_backend.py",
     "README.md",
+    "README.zh-CN.md",
     "NOTICE",
     "COPYRIGHT",
     "LICENSE-DATA.md",

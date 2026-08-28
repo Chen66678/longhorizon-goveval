@@ -5,6 +5,8 @@ The immutable [`v0.1.0-preview`](https://github.com/Chen66678/longhorizon-goveva
 release provides the release manifest and a fixed public snapshot. Chen66678 is
 the credited copyright holder.
 
+[中文说明 / Chinese README](README.zh-CN.md)
+
 The Preview contains three synthetic Public Dev demos and an offline
 deterministic reference policy. It uses only the Python standard library: no
 API key, network access, provider request, or model adapter is needed.
