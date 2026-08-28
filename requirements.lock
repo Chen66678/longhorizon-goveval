@@ -1,0 +1,2 @@
+# This Open Preview uses only the Python standard library.
+# Kept as an explicit reproducibility record: no third-party package is required.

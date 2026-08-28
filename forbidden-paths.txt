@@ -1,0 +1,10 @@
+# Relative path fragments that must never be included in this candidate.
+.git
+__pycache__
+.pytest_cache
+cases/public
+src/govbench
+verifier_internal
+research/
+runs/
+reports/generated

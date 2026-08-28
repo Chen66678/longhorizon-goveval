@@ -1,0 +1,16 @@
+[build-system]
+requires = []
+build-backend = "lhge_build_backend"
+backend-path = ["."]
+
+[project]
+name = "longhorizon-goveval"
+version = "0.1.0rc1"
+description = "Offline deterministic Open Preview for LongHorizon GovEval"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "Apache-2.0"}
+authors = [{name = "Chen66678"}]
+
+[project.scripts]
+lhge = "lh_goveval.cli:main"

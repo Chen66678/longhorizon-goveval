@@ -1,0 +1,22 @@
+# Published release tree allowlist. Paths are matched relative to this directory.
+.gitignore
+README.md
+pyproject.toml
+lhge_build_backend.py
+requirements.lock
+LICENSE
+LICENSE-DATA.md
+COPYRIGHT
+NOTICE
+allowlist.txt
+forbidden-paths.txt
+public_dev/tasks/LHGE_DEV_*.json
+src/lh_goveval/*.py
+tests/test_*.py
+tools/*.py
+docs/INDEPENDENT-REVIEW-EVIDENCE.md
+docs/INTEGRITY.md
+docs/LOCAL-VERIFICATION.md
+docs/PROTOCOL.md
+docs/PUBLIC_SCOPE.md
+docs/REPRODUCIBILITY.md
